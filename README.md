@@ -1,24 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rafly Lesmana</h1>
-<h3 align="center">A multidisciplinary Full-Stack developer from Indonesia</h3>
+<h3 align="center">A multidisciplinary Fullstack Development・Frontend development・Backend developmet from Indonesia</h3>
 
 - 🌱 I’m currently learning **laravel,Vue**
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/rafly.lesmana/)
 
-- 💬 Experiences and learning
-Role : Fullstack Development・Frontend development・Backend developmet
+- Full-stack : MEVN・Django・Flask・PHP・Laravel
 
-Full-stack : MEVN・Django・Flask・PHP・Laravel
+- Back-end : Python・Golang・Node JS・Express JS・Posgresql・MYSQL・MongoDB・Sqlite・GraphQL・Docker
 
-Back-end : Python・Golang・Node JS・Express JS・Posgresql・MYSQL・MongoDB・Sqlite・GraphQL・Docker
+- Front-end : Vue JS・Svelte・JQuery・CSS・Javascript・Tailwind・Flutter
 
-Front-end : Vue JS・Svelte・JQuery・CSS・Javascript・Tailwind・Flutter
+- Culture : Automation & Unit test・Git・Technical Writing・Code Documentation・Pair Programming・Code Review
 
-Culture : Automation & Unit test・Git・Technical Writing・Code Documentation・Pair Programming・Code Review
+- Design : Figma・UI UX Design・Product Design Process・UX Research
 
-Design : Figma・UI UX Design・Product Design Process・UX Research
-
-Languages : Indonesia & English 
+- Languages : Indonesia & English 
 
 - 📫 How to reach me **raflylesmana111@gmail.com**
 
