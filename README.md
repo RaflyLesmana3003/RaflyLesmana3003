@@ -22,6 +22,6 @@
 - ⚡ Fun fact **I wanted to be exprert generalist**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/peter-kimanzi-002299206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter kimanzi" height="30" width="40" /></a>
-</p>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="rafly-lesmana" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/rafly-lesmana/en?trk=profile-badge">rafly lesmana</a></div>
+              
