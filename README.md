@@ -1,7 +1,3 @@
-I'm a full stack engineer, designer and coder. I'm always looking for new challenges in different areas of art, technology, business and design.
-
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
-
 <h1 align="center">Hi 👋, I'm Rafly Lesmana</h1>
 <h3 align="center">A multidisciplinary Full-Stack developer from Indonesia</h3>
 
