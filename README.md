@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafly Lesmana</h1>
 <h3 align="center">A multidisciplinary Fullstack Development・Frontend development・Backend developmet from Indonesia</h3>
 
-- 🌱 I’m currently learning **laravel,Vue**
-
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/rafly.lesmana/)
 
 - ⚔️ Full-stack : MEVN・Django・Flask・PHP・Laravel
 
