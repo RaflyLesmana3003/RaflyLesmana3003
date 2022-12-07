@@ -16,4 +16,4 @@
 
 - 📫 How to reach me **raflylesmana111@gmail.com**
 
-- ⚡ Fun fact **I wanted to be exprert generalist**
+- ⚡ **wanted to be exprert generalist**
