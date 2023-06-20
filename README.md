@@ -2,11 +2,11 @@
 <h3 align="center">A multidisciplinary Fullstack Development・Frontend development・Backend developmet from Indonesia</h3>
 
 
-- ⚔️ Full-stack : MEVN・Django・Flask・PHP・Laravel
+- ⚔️ Full-stack : MEVN・Django・Flask・PHP・Laravel・Next JS・React 
 
 - ⚙️ Back-end : Python・Golang・Node JS・Express JS・Posgresql・MYSQL・MongoDB・Sqlite・GraphQL・Docker
 
-- 📱 Front-end : Vue JS・Svelte・JQuery・CSS・Javascript・Tailwind・Flutter
+- 📱 Front-end : Vue JS・Next JS・Svelte・JQuery・CSS・Javascript・Tailwind・Flutter
 
 - 💎 Culture : Automation & Unit test・Git・Technical Writing・Code Documentation・Pair Programming・Code Review
 
