@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rafly Lesmana</h1>
-<h3 align="center">A multidisciplinary Fullstack Development・Frontend development・Backend development from Indonesia</h3>
+
+<img align="center" width="100%" src="https://i.pinimg.com/originals/64/76/16/647616c0b9caa1dad3bda91e9081791d.gif">
+
+
+<h1 align="left">Hi 👋, I'm Rafly Lesmana</h1>
+<h3 align="left">A multidisciplinary Fullstack Development・Frontend development・Backend development from Indonesia</h3>
+
+<hr> </hr>
 
 
 - 💎 Culture : Automation & Unit test・Git・Technical Writing・Code Documentation・Pair Programming・Code Review
