@@ -14,7 +14,7 @@
 
 <hr> </hr>
 
-<h1 align="center">⚔️ Full-stack
+<h3 align="center">⚔️ Full-stack
 
 ![](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/DJANGO-43853D?style=for-the-badge&logo=django&logoColor=white)
@@ -24,9 +24,9 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-</h1>
+</h3>
 
-<h1 align="center">⚙️ Back-end
+<h3 align="center">⚙️ Back-end
 
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,9 +43,9 @@
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-</h1>
+</h3>
 
-<h1 align="center">📱 Front-end
+<h3 align="center">📱 Front-end
 
 ![](https://img.shields.io/badge/Svelte-E34F26?style=for-the-badge&logo=svelte&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -59,9 +59,9 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-</h1>
+</h3>
 
-<h1 align="center">🚢 Deployment
+<h3 align="center">🚢 Deployment
 
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -70,30 +70,19 @@
 ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-</h1>
+</h3>
 
-<h1 align="center">🤖 Artificial Inteligence
+<h3 align="center">🤖 Artificial Inteligence
 
 ![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Keras](https://img.shields.io/static/v1?style=for-the-badge&message=Keras&color=D00000&logo=Keras&logoColor=FFFFFF&label=)
-</h1>
+</h3>
 
-<h1 align="center">💻 IDE
 
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-</h1>
-
-<h1 align="center">🛤️ Project Tracker
-
-![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=)
-![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-</h1>
-
-<h1 align="center">📊 Data Stats & ML
+<h3 align="center">📊 Data Stats & ML
 
 ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![](https://img.shields.io/badge/pytest-white?style=for-the-badge&logo=pytest&logoColor=dark)
@@ -101,16 +90,20 @@
 ![](https://img.shields.io/badge/numpy-white?style=for-the-badge&logo=numpy&logoColor=blue)
 ![](https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter&logoColor=orange)
 ![](https://img.shields.io/badge/anaconda-white?style=for-the-badge&logo=anaconda&logoColor=green)
-</h1>
+</h3>
 
-<h1 align="center">🎮 Gaming
+<h3 align="center">🎮 Gaming
   
 ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
-</h1>
+</h3>
 
-<h1 align="center">Others
+<h3 align="center">Others
 
+![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=)
+![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
@@ -123,7 +116,7 @@
 ![JFrog](https://img.shields.io/static/v1?style=for-the-badge&message=JFrog&color=222222&logo=JFrog&logoColor=41BF47&label=)
 ![Kaggle](https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=)
 ![.ENV](https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&color=222222&logo=.ENV&logoColor=ECD53F&label=)
-</h1>
+</h3>
 
 
 
