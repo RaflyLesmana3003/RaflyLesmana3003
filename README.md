@@ -17,7 +17,8 @@
 <h3 align="center">⚔️ Full-stack</h3>
 
 <h3 align="center">
-  
+
+    
 ![](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/DJANGO-43853D?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
