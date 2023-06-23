@@ -18,7 +18,7 @@
 
 - ⚡ **wanted to be exprert generalist**
 
-<h1 align="center">TECH EXPERIENCE</h1>
+<h1 align="center">🧭 TECH EXPERIENCE</h1>
 
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
