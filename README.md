@@ -14,8 +14,10 @@
 
 <hr> </hr>
 
-<h3 align="center">⚔️ Full-stack
+<h3 align="center">⚔️ Full-stack</h3>
 
+<h3 align="center">
+  
 ![](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/DJANGO-43853D?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -27,7 +29,10 @@
 </h3>
 
 <h3 align="center">⚙️ Back-end
+</h3>
 
+<h3 align="center">
+  
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -46,7 +51,10 @@
 </h3>
 
 <h3 align="center">📱 Front-end
+</h3>
 
+<h3 align="center">
+  
 ![](https://img.shields.io/badge/Svelte-E34F26?style=for-the-badge&logo=svelte&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/TailwindCSS-white?style=for-the-badge&logo=tailwindcss&logoColor=blue)
@@ -62,7 +70,10 @@
 </h3>
 
 <h3 align="center">🚢 Deployment
+</h3>
 
+<h3 align="center">
+  
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
@@ -73,7 +84,10 @@
 </h3>
 
 <h3 align="center">🤖 Artificial Inteligence
+</h3>
 
+<h3 align="center">
+  
 ![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -83,7 +97,10 @@
 
 
 <h3 align="center">📊 Data Stats & ML
+</h3>
 
+<h3 align="center">
+  
 ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![](https://img.shields.io/badge/pytest-white?style=for-the-badge&logo=pytest&logoColor=dark)
 ![](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=dark)
@@ -93,13 +110,19 @@
 </h3>
 
 <h3 align="center">🎮 Gaming
+</h3>
+
+<h3 align="center">
   
 ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 </h3>
 
 <h3 align="center">Others
+</h3>
 
+<h3 align="center">
+  
 ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
